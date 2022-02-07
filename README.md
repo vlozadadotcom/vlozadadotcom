@@ -5,7 +5,7 @@
 - Actualmente me encuentro estudiando JS.
 
 ## Contacto
-- [https://vlozada.com](Página Web)
-- [https://twitter.com/VlozadaDev](Twitter)
-- [https://www.linkedin.com/in/valdemar-dev/](LinkeIn)
+- [Web](https://vlozada.com)
+- [Twitter](https://twitter.com/VlozadaDev)
+- [LinkedIn](https://www.linkedin.com/in/valdemar-dev/)
 
