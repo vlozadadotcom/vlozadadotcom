@@ -1,7 +1,7 @@
 
 # Hola 👋🏻, Soy Valdemar
 
-- Soy administrador de Sistemas _GNU/Linux_. Me mantengo en aprendizaje contiuo 👨🏻‍💻 y me formo como Backend Developer .
+- Soy administrador de Sistemas _GNU/Linux_. Me mantengo en aprendizaje contiuo 👨🏻‍💻 y me formo como Backend Developer.
 - Actualmente me encuentro estudiando JS.
 
 ## Contacto
